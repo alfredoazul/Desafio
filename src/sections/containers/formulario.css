@@ -1,0 +1,24 @@
+.contenedorPrincipal{
+	padding-left: 50px;
+	padding-right: 50px;	
+}
+
+.contenedorFormulario{
+	padding-top: 10px;	
+}
+
+.form-label{
+	color:#fff;
+}
+
+.red{
+	color:#F48263;
+}
+
+
+@media screen and (max-width:480px){
+	article{
+		width:100%
+	}
+	
+}

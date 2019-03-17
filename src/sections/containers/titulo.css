@@ -1,0 +1,23 @@
+.contentTitle{
+    margin: 0;
+    justify-content: center; 
+    justify-items: center;
+    margin: 0px important!;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.titulo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 38px;
+    color:white; 
+    line-height: 1;
+}
+
+.subtitulo{
+    font-family: Arial;
+    font-size: 15px;
+    color:white; 
+    line-height: 1;
+    margin-left: 20px;
+}

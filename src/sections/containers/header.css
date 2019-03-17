@@ -1,0 +1,18 @@
+.contenedor{
+    height: 50px;
+    background-color: white;
+    flex: 1
+}
+.contenedor img{
+    height: 35px;
+    padding-left: 20%;
+    padding-top:5px;
+}
+
+
+@media screen and (max-width:480px){
+    .contenedor img{
+        padding-left: 5%;
+        padding-top:5px;
+    }    
+}
